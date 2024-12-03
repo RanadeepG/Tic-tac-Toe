@@ -37,7 +37,7 @@ header{
     height: 20vmin;
     width: 20vmin;
     background-color: azure;
-    font-size: clamp(1rem,8rem,8rem);
+    font-size: calc(1vw + 2rem);
     color: orange;
 }
 .button-holder{
